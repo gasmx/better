@@ -1,7 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "better",
+  "name": "bet-better",
   "version": "0.1",
+  "icons": {
+    "16": "icon128.png",
+    "48": "icon128.png",
+    "128": "icon128.png"
+  },
   "content_scripts": [
     {
       "matches": [
